@@ -1,0 +1,5 @@
+ an online order system. An order can be in one of three states:
+
+Pending: The order has been placed but not yet processed.
+Processed: The order has been processed but not yet shipped.
+Shipped: The order has been shipped to the customer.
