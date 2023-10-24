@@ -3,3 +3,5 @@
 Pending: The order has been placed but not yet processed.
 Processed: The order has been processed but not yet shipped.
 Shipped: The order has been shipped to the customer.
+
+The actions that can be performed on the order depend on its current state.
